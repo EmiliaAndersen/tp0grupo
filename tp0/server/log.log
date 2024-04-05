@@ -1,0 +1,7 @@
+[INFO] 18:38:27:248 Servidor/(8258:8258): Servidor listo para recibir al cliente
+[INFO] 18:38:56:178 Servidor/(8258:8258): Se conecto un cliente!
+[INFO] 18:38:56:179 Servidor/(8258:8258): Me llego el mensaje valor
+[INFO] 18:39:02:713 Servidor/(8258:8258): Me llegaron los siguientes valores:
+
+[INFO] 18:39:02:714 Servidor/(8258:8258): soy cami
+[ERROR] 18:39:02:715 Servidor/(8258:8258): el cliente se desconecto. Terminando servidor
